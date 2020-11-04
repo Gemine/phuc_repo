@@ -1,10 +1,5 @@
-#include <stdio.h>
-#include <iostream>
-int main(){
-	std::cout << "Hello Phuc";
-	std::cout << "Hello Nam";
-	std::cout << "Hello Huy";
+f4
+f5
+f6
 
-	return 0;
-}
 
