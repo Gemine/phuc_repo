@@ -1,10 +1,4 @@
-#include <stdio.h>
-#include <iostream>
-int main(){
-	std::cout << "Hello Phuc";
-	std::cout << "Hello Nam";
-	std::cout << "Hello Huy";
-
-	return 0;
-}
+f1
+f2
+f3
 
